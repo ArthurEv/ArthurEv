@@ -22,8 +22,5 @@
 </div>
 
 ## Minhas redes sociais:
-- [LinkedIn](https://www.linkedin.com/in/arthurbertoti/)
-- [Instagram](https://www.instagram.com/arthur_bertoti/)
-
-## Extra:
-- 🤾‍ Eu jogo handebol pela [AECB FEEVALE](https://www.instagram.com/handebol.campobom/)
+- [LinkedIn](https://www.linkedin.com/in/arthur-mattos-ev-733a51271/)
+- [Instagram](https://www.instagram.com/arthurmatttos/)
