@@ -11,7 +11,7 @@
 - PHP
   
 ## Estou estudando atualmente:
-- Phyton
+- Python
   
 ## Minha atividade:
 <div>
